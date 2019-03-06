@@ -1,0 +1,2 @@
+# bot
+Gamers City Network
